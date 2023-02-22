@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9ba523786f599c438cf837b6ac84907, type: 3}
+  m_Name: A30
+  m_EditorClassIdentifier: 
+  augmentBanner: {fileID: 4040214002989688680, guid: 7c051267c0b738947ae1c2b0fcaa9d3d, type: 3}
+  augmentTarget: 2
+  specificClass: -1
+  augmentIndex: 30
+  isSpecific: 0
+  augmentStack: 0
+  augmentPrice: 142

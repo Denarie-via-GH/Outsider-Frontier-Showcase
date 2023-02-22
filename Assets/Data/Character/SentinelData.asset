@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd57635b1c3fc2e4c94d5d27df6ba15f, type: 3}
+  m_Name: SentinelData
+  m_EditorClassIdentifier: 
+  unitPrefab: {fileID: 2805296842680658063, guid: d29dc89b42a17f643995fa25b7721ddc, type: 3}
+  unitCode: Sentinel
+  fromPool: 1
+  unitMaxHP: 250
+  unitHP: 250
+  unitDMG: 20
+  unitDEF: 20
+  unitCritRate: 0.1
+  unitSpeed: 0
+  unitRegen: 0
+  unitDrop: 1000
+  unitIframeDuration: 0.1
+  origin: {x: 0, y: 0, z: 0}
+  direction: {x: 0, y: 0, z: 0}
+  rotation: {x: 0, y: 0, z: 0, w: 0}
+  teamIndex: 2
+  hp_scaling: 339
+  regen_scaling: 0
+  damage_scaling: 11.2

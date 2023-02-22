@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd57635b1c3fc2e4c94d5d27df6ba15f, type: 3}
+  m_Name: CutlassData
+  m_EditorClassIdentifier: 
+  unitPrefab: {fileID: 2292255780651561979, guid: 987e78e9a840b7341ab1e2d9db36b77e, type: 3}
+  unitCode: Cutlass
+  fromPool: 0
+  unitMaxHP: 120
+  unitHP: 120
+  unitDMG: 5
+  unitDEF: 10
+  unitCritRate: 0.1
+  unitSpeed: 30
+  unitRegen: 1.5
+  unitDrop: 0
+  unitIframeDuration: 0.5
+  origin: {x: 0, y: 0, z: 0}
+  direction: {x: 0, y: 0, z: 0}
+  rotation: {x: 0, y: 0, z: 0, w: 0}
+  teamIndex: 3
+  hp_scaling: 36
+  regen_scaling: 0.35
+  damage_scaling: 2.6

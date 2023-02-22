@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a798e93179c09f4c8e39c9fe8d52a25, type: 3}
+  m_Name: MeleeEXData
+  m_EditorClassIdentifier: 
+  projectilePrefab: {fileID: 8457350202180889895, guid: eb977dc568822124e9e019e27c898d29, type: 3}
+  projectileCode: MeleeEX
+  isCrit: 1
+  damage: 33
+  damageMultiplier: 7
+  critMultiplier: 2.5
+  penetrationRate: 0.15
+  origin: {x: 0, y: 0, z: 0}
+  aimDirection: {x: 0, y: 0, z: 0}
+  rotation: {x: 0, y: 0, z: 0, w: 0}
+  maxDistance: 15
+  speed: 15
+  duration: 1
+  fromPool: 1

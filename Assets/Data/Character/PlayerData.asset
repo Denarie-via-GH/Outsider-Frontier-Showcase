@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd57635b1c3fc2e4c94d5d27df6ba15f, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  unitPrefab: {fileID: 3386573160417532735, guid: d261d8e84fa6abd49a77edf1eaa10b09, type: 3}
+  unitCode: Player
+  fromPool: 0
+  unitMaxHP: 134
+  unitHP: 134
+  unitDMG: 0
+  unitDEF: 20
+  unitCritRate: 0
+  unitSpeed: 27.5
+  unitRegen: 1.5
+  unitDrop: 0
+  unitIframeDuration: 0.5
+  origin: {x: 0, y: 0, z: 0}
+  direction: {x: 0, y: 0, z: 0}
+  rotation: {x: 0, y: 0, z: 0, w: 0}
+  teamIndex: 3
+  hp_scaling: 100
+  regen_scaling: 0.5
+  damage_scaling: 0

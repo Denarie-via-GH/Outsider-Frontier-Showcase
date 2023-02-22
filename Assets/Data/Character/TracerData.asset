@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd57635b1c3fc2e4c94d5d27df6ba15f, type: 3}
+  m_Name: TracerData
+  m_EditorClassIdentifier: 
+  unitPrefab: {fileID: 4485605950310494277, guid: 2b80d924dfe670c45aabad1adc30f9cc, type: 3}
+  unitCode: Tracer
+  fromPool: 0
+  unitMaxHP: 70
+  unitHP: 70
+  unitDMG: 7.5
+  unitDEF: 2.5
+  unitCritRate: 0.15
+  unitSpeed: 20
+  unitRegen: 1
+  unitDrop: 0
+  unitIframeDuration: 0.2
+  origin: {x: 0, y: 0, z: 0}
+  direction: {x: 0, y: 0, z: 0}
+  rotation: {x: 0, y: 0, z: 0, w: 0}
+  teamIndex: 3
+  hp_scaling: 28
+  regen_scaling: 0.12
+  damage_scaling: 3.1

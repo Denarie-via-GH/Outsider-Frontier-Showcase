@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd57635b1c3fc2e4c94d5d27df6ba15f, type: 3}
+  m_Name: OrbiterData
+  m_EditorClassIdentifier: 
+  unitPrefab: {fileID: 9141882114660989079, guid: 187a4f1a15930a84a94b1800e4a4d4c9, type: 3}
+  unitCode: Orbiter
+  fromPool: 1
+  unitMaxHP: 15
+  unitHP: 15
+  unitDMG: 5
+  unitDEF: 0
+  unitCritRate: 0
+  unitSpeed: 7.5
+  unitRegen: 0
+  unitDrop: 2.5
+  unitIframeDuration: 0
+  origin: {x: 0, y: 0, z: 0}
+  direction: {x: 0, y: 0, z: 0}
+  rotation: {x: 0, y: 0, z: 0, w: 0}
+  teamIndex: 2
+  hp_scaling: 56
+  regen_scaling: 0
+  damage_scaling: 3.7

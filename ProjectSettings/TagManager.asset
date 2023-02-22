@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Projectile
+  - Ally
+  - Unit
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - AllyUnit
+  - Detect
+  - Projectile
+  - Interact
+  - EnemyUnit
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 367722087
+    locked: 0
+  - name: BelowUnit
+    uniqueID: 3117893647
+    locked: 0
+  - name: Unit
+    uniqueID: 3527531391
+    locked: 0
+  - name: Weapon
+    uniqueID: 308006797
+    locked: 0
+  - name: Item
+    uniqueID: 1836269957
+    locked: 0
+  - name: UI
+    uniqueID: 378735937
+    locked: 0
